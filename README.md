@@ -71,3 +71,40 @@ _Добро пожаловать в «Databases 101» — это подробн�
 - [Практические задания](#практические-задания)
 
 </details>
+
+### Справочники
+
+<details>
+<summary>Подробнее</summary>
+
+#### EN
+
+- [W3 Schools](https://www.w3schools.com/sql/default.asp)
+- [SQL Problems and solutions](http://sql-tutorial.ru/en/content.html)
+
+#### RU
+
+- [Интерактивный курс по SQL](https://sql-academy.org/ru/guide)
+- [Справочник по функциям SQL](https://sql-academy.org/ru/handbook)
+- [SQL Задачи и решения](http://sql-tutorial.ru/ru/content.html)
+
+</details>
+
+### Практические задания
+
+<details>
+<summary>Подробнее</summary>
+
+#### EN
+
+- [W3 Schools Exercises](https://www.w3schools.com/sql/sql_exercises.asp)
+- [SQLBolt: Interactive Tutorial](https://sqlbolt.com/)
+- [SQL exercises](https://sql-ex.ru/learn_exercises.php)
+
+#### RU
+
+- [SQL тренажёр](https://sql-academy.org/ru/trainer)
+- [Интерактивный тренажер по SQL](https://stepik.org/course/63054/info)
+- [Упражнения по SQL](https://sql-ex.ru/learn_exercises.php?LN=1)
+
+</details>
